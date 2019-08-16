@@ -1,0 +1,8 @@
+{
+  "short_name": "KC Portfolio",
+  "name": "Kyle Caltrider's Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

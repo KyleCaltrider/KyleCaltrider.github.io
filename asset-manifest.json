@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96ef8d43.chunk.css",
+    "main.js": "/static/js/main.3ae34bb4.chunk.js",
+    "main.js.map": "/static/js/main.3ae34bb4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.084f5fb1.chunk.js": "/static/js/2.084f5fb1.chunk.js",
+    "static/js/2.084f5fb1.chunk.js.map": "/static/js/2.084f5fb1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.150cf8efae6dbb7d7a6be829a46c5432.js": "/precache-manifest.150cf8efae6dbb7d7a6be829a46c5432.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.96ef8d43.chunk.css.map": "/static/css/main.96ef8d43.chunk.css.map",
+    "static/media/CV Kyle Caltrider.pdf": "/static/media/CV Kyle Caltrider.fa8dbb00.pdf",
+    "static/media/Docker_logo.png": "/static/media/Docker_logo.ebc8a1fb.png",
+    "static/media/Facial-recognition-photo.png": "/static/media/Facial-recognition-photo.ccfeb4be.png",
+    "static/media/JS_logo.png": "/static/media/JS_logo.ee656fd6.png",
+    "static/media/Node_logo.png": "/static/media/Node_logo.c46b49af.png",
+    "static/media/Python_logo.png": "/static/media/Python_logo.ee1514c5.png",
+    "static/media/React_logo.png": "/static/media/React_logo.644fec00.png",
+    "static/media/Resume Kyle Caltrider.pdf": "/static/media/Resume Kyle Caltrider.71783f07.pdf",
+    "static/media/about-icon.svg": "/static/media/about-icon.9e8cf45e.svg",
+    "static/media/microscope-icon.svg": "/static/media/microscope-icon.e999dac0.svg",
+    "static/media/parent2pi-photo.png": "/static/media/parent2pi-photo.c1751038.png",
+    "static/media/react-etsy-photo.png": "/static/media/react-etsy-photo.65bf227b.png",
+    "static/media/works-icon.svg": "/static/media/works-icon.4e5fdff4.svg"
+  }
+}
